@@ -1,6 +1,6 @@
-# link-site
+# link-sites
 
-My Collection link site:
+My Collection link sites:
 
 https://creator.line.me/en/guideline/animationsticker/
 
