@@ -2,6 +2,13 @@
 
 My Collection link sites:
 
+new;
+http://www.drdobbs.com/windows/building-portable-games-in-c/240169334
+
+https://dzone.com/articles/step-by-step-aspnet-core-restful-web-service-devel
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 https://creator.line.me/en/guideline/animationsticker/
 
 http://docs.smartstore.com/display/SD/How+to+write+a+Plugin
